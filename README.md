@@ -1,6 +1,10 @@
+<p align="center">
 ## Hi there, I’m Sweta 👋
+</p>
 
+<p align="center">
 **Software Engineer (Product Strategy) | Data Engineer | Platform & Analytics**
+</p>
 
 I build data and software systems that are reliable, scalable, and actually useful.
 My sweet spot sits at the intersection of **data engineering, product thinking, and platform design** — turning complex systems into things teams can trust and move fast with.
