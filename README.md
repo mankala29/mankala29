@@ -6,7 +6,7 @@ I build data and software systems that are reliable, scalable, and actually usef
 My sweet spot sits at the intersection of **data engineering, product thinking, and platform design** — turning complex systems into things teams can trust and move fast with.
 
 ### 🧠 What I do
-- Design and build **data platforms** using Snowflake, Databricks, Kafka, and Spark  
+- Build and shape data systems that enable faster product iteration and trustworthy decision-making
 - Work on **product-facing engineering problems** with a strong focus on strategy and impact  
 - Translate business problems into **clean, maintainable technical solutions**  
 - Care deeply about data quality, governance, and long-term system health
