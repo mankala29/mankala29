@@ -1,4 +1,4 @@
-                                                    ## Hi there, I’m Sweta 👋
+## Hi there, I’m Sweta 👋
 
 **Software Engineer (Product Strategy) | Data Engineer | Platform & Analytics**
 
