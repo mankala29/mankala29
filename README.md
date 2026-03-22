@@ -18,6 +18,6 @@ My sweet spot sits at the intersection of **data engineering, product thinking, 
 - Care deeply about data quality, governance, and long-term system health  
 
 ### 🔭 I'm currently working on
-Exploring how **data platforms and product engineering intersect** and building systems that scale without becoming nightmares.
+Designing and evolving **data systems for high signal, high risk environments**, while exploring how modern data platforms can move from **data delivery → decision leverage**
 
 ✨ *I believe great engineering is calm, intentional, and built to last.*
